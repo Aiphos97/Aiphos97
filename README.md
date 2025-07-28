@@ -24,6 +24,7 @@ Music (soprano) · Gaming · Learning new tech · Building useful tools
 
 
 ### 💌 Connect:
-[LinkedIn](https://www.linkedin.com/in/sofia-rodriguez)</br>
+[LinkedIn][(https://www.linkedin.com/in/sofía-rodríguez907/)</br>
 Mail: aiphos.97@gmail.com
+
 
