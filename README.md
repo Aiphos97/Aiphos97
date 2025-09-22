@@ -3,9 +3,14 @@ I'm an aspiring software engineer and Computer Science student at Universidad Am
 I enjoy creating practical solutions using code, and I'm currently learning full-stack development.
 I'm passionate about continuous learning, soft skills, and using tech to make life a little easier. 🔮.
 
+Soy estudiante de Ingeniería en Software y Ciencias de la Computación en la Universidad Americana de Asunción.
+Disfruto creando soluciones prácticas mediante código y actualmente me estoy formando en desarrollo full-stack.
+Me apasiona el aprendizaje continuo, desarrollar habilidades blandas y usar la tecnología para hacer la vida un poco más fácil. 🔮
+
 ### 🍄 Skills & Tools:
  ## Soft Skills
  Medical Interpretation · Communication ·  Active Listening ·  Cultural Sensitivity ·  Problem Solving ·  Multitasking ·  Time Management
+ Interpretación Médica · Comunicación · Escucha Activa · Sensibilidad Cultural · Resolución de Problemas · Multitarea · Gestión del Tiempo
 
  ## Tools 
  
